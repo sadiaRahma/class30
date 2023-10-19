@@ -1,0 +1,16 @@
+.box1{
+    margin:10px;
+    height: 200px;
+    width: 100px;
+    padding: 10px;
+    border: 20px blue;
+    border-image:url(cartoon.png) 28 round ;
+    
+}
+.box2{
+    height:300px;
+    width:50px;
+    background-color: gray;
+    background-image:repeating-linear-gradient(repeating-linear-gradient()20%, orange 30%, red 50%);
+
+}
